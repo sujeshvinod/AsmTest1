@@ -37,5 +37,8 @@
     <MASM Include="Accumulator_.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="Fibonacci_.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>

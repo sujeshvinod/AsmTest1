@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <MASM Include="Accumulator_.asm" />
+    <MASM Include="Fibonacci_.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
